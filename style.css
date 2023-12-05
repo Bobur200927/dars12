@@ -64,7 +64,7 @@
 }
 
 .head ul li:hover{
-    color: blue;
+    color: blue; 
 }
 
 @media (max-width: 950px){
